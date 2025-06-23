@@ -32,7 +32,7 @@ HTML5, CSS3 (Bootstrap or Tailwind if used)
 
 📦 How to Run Locally
 
-git clone https://github.com/yourusername/url-shortener-flask.git
+git clone https://github.com/nithishvaduganathan/url-shortner
 cd url-shortener-flask
 pip install -r requirements.txt
 python app.py
